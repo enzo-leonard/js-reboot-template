@@ -1,1 +1,3 @@
-console.log('hey there')
+import message from "../lib/hello"
+
+console.log(message);
